@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+/bin/
+bin/saved_model_4machines
+share
+.gitattributes
+pyvenv.cfg
+*.swp

@@ -1,0 +1,11 @@
+{
+    "layer_type": "RGCNLayer",
+    "edge_dim": true,
+    "node_dim": true,
+    "layer_params": {
+        "n_units": 32,
+        "activation": "leakyrelu",
+        "dropout": 0,
+	    "n_hidden_layers": 2
+    }
+}

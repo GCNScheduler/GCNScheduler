@@ -1,0 +1,7 @@
+numpy
+dgl
+requests
+torch
+rdflib
+pandas
+dill
