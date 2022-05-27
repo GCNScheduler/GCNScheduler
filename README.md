@@ -31,6 +31,12 @@ Add the repository path to your `PYTHONPATH`:
 export PYTHONPATH="<PATH>/edGNN:$PYTHONPATH"
 ```
 
+Download folder lib from the following link  and place it in the same directory:
+
+```sh
+https://drive.google.com/drive/folders/1NXnWDcO_Rk8rsffAYO5ThPQepCi00TqD?usp=sharing
+```
+
 ## Running GCNScheduler:
 
 ```sh
